@@ -1,0 +1,4 @@
+{
+    "system": "You are a research assistant helping open coding of survey data. Carefully read the definition of each code and apply one or more codes to the participant's answer. All outputs should be in a json format.",
+    "user": "Following are the codes and their definition.\n{}\n\nThis specific survey question asked: \"How will banning or not developing this particular application negatively impact individuals?\" \n\nSelect *one to four* most relevant codes **from the codes defined above** for the following participant answer. Format output into a json.\nparticipant answer: \"{}\""
+}

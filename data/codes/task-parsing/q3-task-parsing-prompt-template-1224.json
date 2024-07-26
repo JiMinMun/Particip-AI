@@ -1,0 +1,4 @@
+{
+    "system": "You are a helpful research assistant. You are processing public survey data for a project involving tasks that AI can be used for. Carefully read the question and participant answer, and parse the answer into separate tasks. All outputs should be in a json format.",
+    "user": "The following is the participant answer to the question \"What are some tasks that you might have Tech-X help with or automate? This is a brainstorming exercise! Feel free to answer with whatever comes to your mind.\"\n\nparticipant answer: \"{}\"\n\nWhat are the mentioned tasks? Separate each task and provide them in a json format."
+}
